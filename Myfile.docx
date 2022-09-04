@@ -1,0 +1,24 @@
+1.
+ID: 0001
+Name: Onion
+Price: 10000
+Quantity: 2
+Priority: Necessities
+Tag: Vegetable
+Total cost: 20000
+2.
+ID: 0002
+Name: Lettuce
+Price: 5000
+Quantity: 2
+Priority: Necessities
+Tag: Vegetable
+Total cost: 10000
+3.
+ID: 0003
+Name: Books
+Price: 7000
+Quantity: 3
+Priority: Necessities
+Tag: Educational
+Total cost: 21000

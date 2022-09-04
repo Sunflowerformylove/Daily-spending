@@ -1,0 +1,14 @@
+1.
+Name: Onion
+Price: 10000
+Quantity: 100
+Priority: Necessities
+Tag: Vegetable
+Total cost: 1000000
+2.
+Name: Lettuce
+Price: 10000
+Quantity: 2
+Priority: Necessities
+Tag: Vegetable
+Total cost: 20000
